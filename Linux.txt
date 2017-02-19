@@ -1,0 +1,13 @@
+Linux Command Line and Shell Scripting Bible 3rd edition 2015 (5/18)
+Linux Essentials 2nd edition 2015 (5/1)
+Linux Web Server Development - A Step-by-Step Guide for Ubuntu, Fedora, and other Linux Distributions 2015 (5/1)
+Linux Bible 9th edition 2015 (4.5/30)
+Practical Linux Infrastructure 2015 (3.5/3)
+Pro Bash Programming 2nd edition - Scripting the GNU-Linux Shell 2nd edition (3/1)
+Beginning the Linux Command Line 2nd edition 2015
+How Linux Works - What Every Superuser Should Know 2nd edition 2014 (5/70)
+Linux for Beginners - An Introduction to the Linux Operating System and Command Line 2014 (4.5/95)
+Linux All-in-One For Dummies 5th edition 2014 (3.5/7)
+The Linux Command Line - A Complete Introduction 2012 (4.5/222)
+Shell Scripting - Expert Recipes for Linux, Bash and more 2011 (4.5/3)
+The Linux Programming Interface - A Linix and UNIX System Programming Handbook 2010 (5/103)
